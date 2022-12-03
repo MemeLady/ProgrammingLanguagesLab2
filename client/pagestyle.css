@@ -1,0 +1,14 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.package{
+    padding: 5px;
+    padding-bottom: 15px;
+    display: inline-block;
+}
+.file{
+    padding: 5px;
+    padding-bottom: 15px;
+    display: inline-block;
+}
